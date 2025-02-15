@@ -1,7 +1,7 @@
 # Imports in Terminal
 
 # Installing LangChain & LangChain Experimental
-# python3 -m pip install langchain langchain_experimental
+# python3 -m pip install openai langchain langchain_experimental
 
 # Installing HuggingFace Hub
 # python3 -m pip install huggingface_hub
